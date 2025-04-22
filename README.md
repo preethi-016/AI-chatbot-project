@@ -66,7 +66,6 @@ Seamless integration with existing recruitment systems
 
 📩 Contact
 Created by Sheebha Preethi M
-📧 preethiprincess2002@gmail.com
 🔗 LinkedIn | GitHub
 
 #️⃣ Feel free to fork this repository, contribute, or suggest improvements!
