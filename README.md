@@ -46,7 +46,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/preethi-016/AI-chatbot-project
 Move the project folder into the Botpress data folder
 
 Run Botpress server:
